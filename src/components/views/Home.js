@@ -10,12 +10,6 @@ const Home = () => {
         <div className='hero-text-container'><span>Full Stack Web Developer<br />Agile enthusiast<br />Driven autodidact<br />Co-founder @MagentaCodes</span></div>
         </div>
       </section>
-      <section className='content-section'>
-        Content
-      </section>
-      <section className='content-section'>
-        Footer
-      </section>
     </>
   )
 }
