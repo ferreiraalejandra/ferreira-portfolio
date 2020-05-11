@@ -1,21 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Views from './components/views'
+import NavBar from './components/navbar/NavBar';
+import {BrowserRouter as Router} from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Ferreira portfolio
-        </a>
-      </header>
+      <Router>
+        <NavBar />
+        <Views />
+      </Router>
     </div>
   );
 }
