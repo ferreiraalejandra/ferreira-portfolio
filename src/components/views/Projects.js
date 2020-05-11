@@ -1,7 +1,19 @@
-import React from 'react';
+import React, {Fragment} from 'react';
 
 const Projects = () => {
-  return <div>Cards with projects</div>
+  return (
+    <Fragment>
+      <section className='content-section'>
+        My Projects
+      </section>
+      <section className='content-section'>
+        Content
+      </section>
+      <section className='content-section'>
+        Footer
+      </section>
+    </Fragment>
+  )
 }
 
 export default Projects
