@@ -10,3 +10,34 @@
   background-repeat: no-repeat;
   background-position: right;
 }
+
+.title-container {
+  padding-top: 17%;
+  font-size: 6rem;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+}
+
+.hero-text-container {
+  font-size: 2rem;
+  text-align: left;
+  font-weight: normal;
+  color: white;
+}
+
+.about-text-container {
+  padding: 10%;
+  font-size: 1.5rem;
+  text-align: justify;
+  font-weight: normal;
+  color: white;
+}
+
+.project-text-container {
+  padding-top: 3%;
+  font-size: 1.3rem;
+  text-align: justify;
+  font-weight: normal;
+  color: white;
+}
