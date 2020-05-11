@@ -1,7 +1,6 @@
 import React from 'react';
 import heroImage from '../../images/heroImage.svg'
 
-//<img src={heroImage} alt='heroImage with a female developer' />
 const Home = () => {
   return (
     <>

@@ -16,3 +16,7 @@
   color: white;
   text-decoration: none ;
 }
+
+a.underlined {
+  text-decoration: underline;
+}
