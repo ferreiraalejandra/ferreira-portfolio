@@ -1,0 +1,72 @@
+.contact-main-container{
+  display: flex;
+}
+
+.contact-form-container{
+  width: 60%;
+}
+
+.contact-form-header{
+  color:  rgba(235, 47, 119, 0.979);
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.individual-input-container{
+  margin: 10px;
+}
+
+.form-input{
+  background-color: rgb(49, 58, 80);
+  border: none;
+  border-radius: 2px;
+  height: 30px;
+  width: 400px;
+  margin: 10px;
+  color: white;
+}
+
+.form-label-input{
+  color: white;
+}
+
+.form-text-area{
+  background-color: rgb(49, 58, 80);
+  border: none;
+  border-radius: 2px;
+  width: 400px;
+  margin: 10px;
+  color: white;
+  vertical-align: middle;
+}
+
+.form-button{
+  width: 150px;
+  height: 35px;
+  background-color:  rgba(235, 47, 119, 0.979);
+  color: white;
+  font-size: 1rem;
+  border: none;
+  border-radius: 2px;
+}
+.contact-information-container{
+  width: 40%;
+}
+
+.contact-header{
+  color:  rgba(235, 47, 119, 0.979);
+  font-size: 3rem;
+}
+
+.contact-text{
+  color: white;
+}
+
+.social-media-header{
+  color:  rgba(235, 47, 119, 0.979);
+  font-size: 2rem;
+}
+
+.social-media-text{
+  color: white;
+}

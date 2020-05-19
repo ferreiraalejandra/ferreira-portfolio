@@ -19,4 +19,5 @@
 
 a.underlined {
   text-decoration: underline;
+  color: rgba(235, 47, 119, 0.979);
 }
